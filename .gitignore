@@ -1,6 +1,6 @@
 /*
 !wd-admin
-wd-admin/application/apps/projects/views/project/*
+wd-admin/application/apps/projects/projects/*
 */config/development
 */logs/log-*.php
 */logs/!index.html
